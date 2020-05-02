@@ -1,11 +1,30 @@
 # Project Objectives (Johan)
+A major travel company has tasked us with developing an information system that improves the operation of their in-house call management centre. 
+This system will automatically assign end customers to well informed relationship managers with appropriate knowledge of the destination and its traditions. 
+This process is done based on the match between a customer's profile and a relationship managers profile and skill. 
+A customers profile will be automatically made using a profiler tool and a relationship managers profile is made through a 10 minute questionnaire upon them being hired. 
+*** A customer's profile includes information such as … . 
+*** A relationship managers profile may include age, sex, culture, language proficiency, experience and product knowledge. 
+*** During outbound calls the system automatically calls a customer according to a customer target list. 
+This list consists of tuples of information in the form of <potential customer, Product proposed> and it is provided to a specific relationship manager. 
+The system retrieves the customer details from the database and provides the relationship manager guidelines and a script to help provide improved service to the end customer. 
+For Inbound calls a customer contacts the CMC which has its own private branch exchange to route calls. 
+*** A customer will get a score from 1-10 based on the likelihood to purchase the product (e.g. repeat customers may have a higher score, customers from particular postcodes may have lower scores, etc..). 
+A customer with higher scores is served first. 
+*** Similarly a skill score is allocated to a relationship manager based on their previous call duration and profile. 
+Customer is redirected to a relationship manager according to skills and best match. 
+During busy times a customer is directed to an interactive voice response unit promoting them for options. 
+It may ask a few questions before redirecting the customer to the automatic call distributor routing the call to the first available appropriate relationship manager.
 
 Scope (Erina Delinicolas) (Includes assumptions)
 
 
 Stakeholders
-Relationship Managers, why are they a stakeholder?
-Customers
+End Customer - They are a stakeholder as they are one of the end users that will be using the product.
+Relationship Manager - They are a stakeholder as they are one of the end users that will be using the product.
+Local community where product will be in use - They are a stakeholder as they will be directly affected by the product. 
+Product owner - They are a stakeholder as they are the person who owns and funds the product.
+
 
 
 
