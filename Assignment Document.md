@@ -18,22 +18,22 @@ It may ask a few questions before redirecting the customer to the automatic call
 
 Scope (Erina Delinicolas) (Includes assumptions)
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
-  *Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
-  * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
+    * Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
+    * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
 2. Outbound calls are made on preliminary information stored in database, which will include information of sex, age, packages interested, interested location, collected by:
-  * Previous calls 
-  * Their website that uses sign-ups, server-logs and cookies 
+    * Previous calls 
+    * Their website that uses sign-ups, server-logs and cookies 
 3. Customers agree to be recorded for training purposes 
 4. Interactive voice response unit has good voice recognition and can have users list words that respond with their call
 5. Age Region From, Region Interested are stored as large categories, eg. 
-  * Age <18, 28>, <28-38> <38-48>, <58 , 100>
-  * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
+    * Age <18, 28>, <28-38> <38-48>, <58 , 100>
+    * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
 6. Passport holdings data will be stored as individual categories 
 7. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
 Staff assumed to be hired between business hours 9:00 - 17:00. 
 8. System has a capacity of withstanding a maximum of 500 calls at a peak time, and less subsiquently based on Relationship Managers available at given time. 
 9. Customers will be given a standard wait time of 15 minutes, and provided their place in queue. 
-  * Existing statistics for average call time will be used in this function at first, but will become more accurate as RM use system
+    * Existing statistics for average call time will be used in this function at first, but will become more accurate as RM use system
 10. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
 11. Employees have knowledge of all travel packages available, along with a database they can quickly search during a call. 
 Employees will be trained prior to new packages being available.
