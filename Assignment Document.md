@@ -18,8 +18,8 @@ It may ask a few questions before redirecting the customer to the automatic call
 
 Scope (Erina Delinicolas) (Includes assumptions)
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
-  *  Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
-  *  For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
+  *Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
+  * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
 2. Outbound calls are made on preliminary information stored in database, which will include information of sex, age, packages interested, interested location, collected by:
   * Previous calls 
   * Their website that uses sign-ups, server-logs and cookies 
