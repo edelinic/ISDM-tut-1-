@@ -3,15 +3,14 @@ A major travel company has tasked us with developing an information system that 
 This system will automatically assign end customers to well informed relationship managers with appropriate knowledge of the destination and its traditions. 
 This process is done based on the match between a customer's profile and a relationship managers profile and skill. 
 A customers profile will be automatically made using a profiler tool and a relationship managers profile is made through a 10 minute questionnaire upon them being hired. 
-*** A customer's profile includes information such as … . 
-*** A relationship managers profile may include age, sex, culture, language proficiency, experience and product knowledge. 
-*** During outbound calls the system automatically calls a customer according to a customer target list. 
+A relationship managers profile may include age, sex, culture, language proficiency, experience and product knowledge. 
+During outbound calls the system automatically calls a customer according to a customer target list. 
 This list consists of tuples of information in the form of <potential customer, Product proposed> and it is provided to a specific relationship manager. 
 The system retrieves the customer details from the database and provides the relationship manager guidelines and a script to help provide improved service to the end customer. 
 For Inbound calls a customer contacts the CMC which has its own private branch exchange to route calls. 
-*** A customer will get a score from 1-10 based on the likelihood to purchase the product (e.g. repeat customers may have a higher score, customers from particular postcodes may have lower scores, etc..). 
+A customer will get a score from 1-10 based on the likelihood to purchase the product (e.g. repeat customers may have a higher score, customers from particular postcodes may have lower scores, etc..). 
 A customer with higher scores is served first. 
-*** Similarly a skill score is allocated to a relationship manager based on their previous call duration and profile. 
+Similarly a skill score is allocated to a relationship manager based on their previous call duration and profile. 
 Customer is redirected to a relationship manager according to skills and best match. 
 During busy times a customer is directed to an interactive voice response unit promoting them for options. 
 It may ask a few questions before redirecting the customer to the automatic call distributor routing the call to the first available appropriate relationship manager.
@@ -39,6 +38,35 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 Employees will be trained prior to new packages being available.
 12. RM are able to see caller demographics/data on their screen automatically as they recieve call
 13. RMs will be able to manually redirect calls to other hotlines, or other RMs if they dont feel they can adequatley service a customer
+14. Customers profiles are made with the use of a profiler tool.
+15. Customer profile includes information such as:
+    * Age
+    * Sex
+    * Culture
+    * Language Proficiency
+    * Address
+    * Sale Success Rating
+    * Phone Number
+16. Relationship managers profile include information such as:
+    * Age
+    * Sex
+    * Culture
+    * Language Proficiency
+    * Address, Product Knowledge
+    * Experience, Skill Score Rating
+    * Phone Number
+    * Employee ID
+    * Profile Image.
+17. Customer sale success rating is based on:
+    * If the customer is a repeat customer
+    * If the customer is from a particular post code
+    * The amount of travel packages purchased by the customer
+    * The amount of time a customer spends on average talkining to a relationship manager
+    * The voice quality of the customer. 
+
+18. Relationship managers skill score rating is based on:
+    * Previous call duration
+    * Similarities between relationship managers profile and customers profile. 
 
 # Stakeholders
 
