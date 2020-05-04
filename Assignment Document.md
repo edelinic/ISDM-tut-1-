@@ -88,7 +88,17 @@ Customer User Stories
 
 
 # Approaches (Week 9-10) 
-3. Describe your approach from a Design Thinking principles perspective. 
+In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
+Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
+
+Define: In this stage we define the problems that have been identified through empathising with each stakeholder. We created user stories based on the assumptions and empathy maps. These user stories were then put into a user story map allowing us to prioritise the most important problems. 
+ 
+Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We will use the point of view of our team to question how might we solve the issues we have gathered. We provide as many answers as possible and vote as a team on which solution is the best.
+
+Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. In this phase we will propose work products and  models based on the solution that we had voted for.
+
+Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this phase we will test the product ourselves.
+
 
 # Development Methodology (Agile) (Week 4)
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
