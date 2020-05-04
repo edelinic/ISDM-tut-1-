@@ -67,6 +67,10 @@ Employees will be trained prior to new packages being available.
 18. Relationship managers skill score rating is based on:
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
+    
+# Empathy Map
+![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
+
 
 # Stakeholders
 
