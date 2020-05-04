@@ -16,7 +16,7 @@ Customer is redirected to a relationship manager according to skills and best ma
 During busy times a customer is directed to an interactive voice response unit promoting them for options. 
 It may ask a few questions before redirecting the customer to the automatic call distributor routing the call to the first available appropriate relationship manager.
 
-Scope (Erina Delinicolas) (Includes assumptions)
+# Scope (Erina Delinicolas) (Includes assumptions)
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
     * Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
     * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
@@ -41,13 +41,16 @@ Employees will be trained prior to new packages being available.
 13. RMs will be able to manually redirect calls to other hotlines, or other RMs if they dont feel they can adequatley service a customer
 
 # Stakeholders
-End Customer - They are a stakeholder as they are one of the end users that will be using the product.
-Relationship Manager - They are a stakeholder as they are one of the end users that will be using the product.
-Local community where product will be in use - They are a stakeholder as they will be directly affected by the product. 
-Product owner - They are a stakeholder as they are the person who owns and funds the product.
 
+| Stakeholders        | Explanation  |
+| ------------- |:-------------:|
+| Product Owner      | They are a stakeholder as they are the person who owns and funds the product. |
+| Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
+| Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
+| Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
+| Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
 
-Approaches (Week 9-10) 
+# Approaches (Week 9-10) 
 3. Describe your approach from a Design Thinking principles perspective. 
 
 # Development Methodology (Agile) (Week 4)
