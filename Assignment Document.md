@@ -56,13 +56,13 @@ Employees will be trained prior to new packages being available.
     * Experience, Skill Score Rating
     * Phone Number
     * Employee ID
-    * Profile Image.
+    * Profile Image
 17. Customer sale success rating is based on:
     * If the customer is a repeat customer
     * If the customer is from a particular post code
     * The amount of travel packages purchased by the customer
     * The amount of time a customer spends on average talkining to a relationship manager
-    * The voice quality of the customer. 
+    * The voice quality of the customer
 
 18. Relationship managers skill score rating is based on:
     * Previous call duration
@@ -77,6 +77,11 @@ Employees will be trained prior to new packages being available.
 | Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
 | Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
 | Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
+
+Customer User Stories
+1. As a Customer, I want to be connected to the relationship manager so that I can inquire information about a travel package.
+2. As a Customer, I want to be connected to the relationship manager in a timely manner so that I do not have to wait too long.
+
 
 # Approaches (Week 9-10) 
 3. Describe your approach from a Design Thinking principles perspective. 
