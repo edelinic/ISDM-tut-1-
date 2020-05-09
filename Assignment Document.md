@@ -71,6 +71,53 @@ Employees will be trained prior to new packages being available.
 # Empathy Map
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
 
+# User Story Map
+
+
+# User Story 
+
+<table>
+  <tr>
+  <td colspan="9">Customer</td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+  <tr>
+  <td colspan="9">Relationship Manager</td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+     <tr>
+  <td colspan="9">Developer </td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+     <tr>
+  <td colspan="9">Product Owner/Client </td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+</table>
 
 # Stakeholders
 
