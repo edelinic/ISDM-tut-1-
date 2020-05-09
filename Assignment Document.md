@@ -91,11 +91,11 @@ Employees will be trained prior to new packages being available.
   <td colspan="9">Relationship Manager</td>
  </tr>
  <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a RM I would like an interactive voice response unit so that I can have more streamlined calls</td>
+  <td>As a RM I would like to see caller demograpics on my screen so that I can taylor my approach for each customer </td>
+  <td>As a RM I would like to see all available travel packages so that I can discuss with customer </td>
+  <td>As a RM I would like a script so that I can provide improved service to customers</td>
+  <td>As a RM I would like to be able to redirect calls so that I can direct customers to other RMs/Departments </td>
    </tr>
      <tr>
   <td colspan="9">Developer </td>
