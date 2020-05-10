@@ -72,7 +72,7 @@ Employees will be trained prior to new packages being available.
 ## Customer 
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
 ## Relationship Manager 
-![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492203-5f246280-92d9-11ea-8963-6b9f8a5bc122.jpg)
+![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
 
 # User Story Map
 
