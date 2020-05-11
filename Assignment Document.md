@@ -105,17 +105,17 @@ Employees will be trained prior to new packages being available.
   <td>As a RM I would like to be able to redirect calls so that I can direct customers to other RMs/Departments </td>
    </tr>
      <tr>
-  <td colspan="9">Developer </td>
+  <td colspan="9">Call Management Centre (CMC) </td>
  </tr>
  <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As the CMC I would like to keep track of all calls made so that I can refer back to the log in case of a complaint from a customer</td>
+  <td>As the CMC I would like keep track of all sales and potential sales so that I can keep a running log of how much money is being made and also for any complaints made by customers and insurance</td>
+  <td>As the CMC I would like to keep a list of RMs so that I can allocate them to customers suited to them best</td>
+  <td>As the CMC I would like to keep track of holiday locations so that I can best match customers to their desired location</td>
+  <td>As the CMC I would like to keep a log of customers so that I can help serve them better next time they call</td>
    </tr>
      <tr>
-  <td colspan="9">Product Owner/Client </td>
+  <td colspan="9">Product Owner/Major Travel Company/Client </td>
  </tr>
  <tr>
   <td>As a ____ I would like ____ so that I can ________</td>
@@ -130,11 +130,12 @@ Employees will be trained prior to new packages being available.
 
 | Stakeholders        | Explanation  |
 | ------------- |:-------------:|
-| Product Owner      | They are a stakeholder as they are the person who owns and funds the product. |
+| Product Owner/Major Travel Company      | They are a stakeholder as they are the person who owns and funds the product. |
 | Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
 | Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
 | Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
 | Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
+| Call Management Centre (CMC) | They are a section within the major travel company. This is where all RMs work, making the management centre a particularly important stakeholder with the new software. |
 
 Customer User Stories
 1. As a Customer, I want to be connected to the relationship manager so that I can inquire information about a travel package.
