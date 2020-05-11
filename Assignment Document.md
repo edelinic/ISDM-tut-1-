@@ -68,11 +68,63 @@ Employees will be trained prior to new packages being available.
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
     
-# Empathy Map
+# Empathy Maps
+## Customer 
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
+
 ## Developer 
 ![empathy map](https://github.com/edelinic/ISDM-tut-1-/blob/Developer-Empathy-map/DeveloperEmpathyMap.png)
 
+## Relationship Manager 
+![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
+
+# User Story Map
+
+
+# User Story 
+
+<table>
+  <tr>
+  <td colspan="9">Customer</td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+  <tr>
+  <td colspan="9">Relationship Manager</td>
+ </tr>
+ <tr>
+  <td>As a RM I would like an interactive voice response unit so that I can have more streamlined calls</td>
+  <td>As a RM I would like to see caller demograpics on my screen so that I can taylor my approach for each customer </td>
+  <td>As a RM I would like to see all available travel packages so that I can discuss with customer </td>
+  <td>As a RM I would like a script so that I can provide improved service to customers</td>
+  <td>As a RM I would like to be able to redirect calls so that I can direct customers to other RMs/Departments </td>
+   </tr>
+     <tr>
+  <td colspan="9">Developer </td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+     <tr>
+  <td colspan="9">Product Owner/Client </td>
+ </tr>
+ <tr>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a ____ I would like ____ so that I can ________</td>
+   </tr>
+</table>
 
 # Stakeholders
 
