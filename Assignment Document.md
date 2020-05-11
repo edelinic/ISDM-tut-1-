@@ -71,6 +71,10 @@ Employees will be trained prior to new packages being available.
 # Empathy Maps
 ## Customer 
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
+
+## Developer 
+![empathy map](https://github.com/edelinic/ISDM-tut-1-/blob/Developer-Empathy-map/DeveloperEmpathyMap.png)
+
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
 
