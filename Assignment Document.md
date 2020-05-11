@@ -28,12 +28,9 @@ It may ask a few questions before redirecting the customer to the automatic call
     * Age <18, 28>, <28-38> <38-48>, <58 , 100>
     * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
 6. Passport holdings data will be stored as individual categories 
-7. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
-Staff assumed to be hired between business hours 9:00 - 17:00. 
 8. System has a capacity of withstanding a maximum of 500 calls at a peak time, and less subsiquently based on Relationship Managers available at given time. 
 9. Customers will be given a standard wait time of 15 minutes, and provided their place in queue. 
     * Existing statistics for average call time will be used in this function at first, but will become more accurate as RM use system
-10. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
 11. Employees have knowledge of all travel packages available, along with a database they can quickly search during a call. 
 Employees will be trained prior to new packages being available.
 12. RM are able to see caller demographics/data on their screen automatically as they recieve call
@@ -163,6 +160,15 @@ Make a backlog and user story diagram
 # Assumptions
 5. List assumptions you have made in the systems analysis. 
 (everyone has to do at least 5)
+
+(Jacob - 2 from above + 3):
+1. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
+Staff assumed to be hired between business hours 9:00 - 17:00. 
+2. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
+3. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
+4. CMC system has another system in place to allow recording of all incoming calls
+5. RM's profile is automatically updated with every customer they deal with
+
 
 # Proposed Models
 UI “screens”
