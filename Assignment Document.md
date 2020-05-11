@@ -73,6 +73,9 @@ Employees will be trained prior to new packages being available.
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
+## Product Owner
+<img width="557" alt="Annotation 2020-05-11 104959" src="https://user-images.githubusercontent.com/62222776/81515212-474eec00-9376-11ea-8175-e529d7bc1237.png">
+
 
 # User Story Map
 
