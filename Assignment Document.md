@@ -70,6 +70,7 @@ Employees will be trained prior to new packages being available.
     
 # Empathy Map
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
+## Developer 
 ![empathy map](https://github.com/edelinic/ISDM-tut-1-/blob/Developer-Empathy-map/DeveloperEmpathyMap.png)
 
 
