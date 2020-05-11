@@ -28,12 +28,9 @@ It may ask a few questions before redirecting the customer to the automatic call
     * Age <18, 28>, <28-38> <38-48>, <58 , 100>
     * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
 6. Passport holdings data will be stored as individual categories 
-7. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
-Staff assumed to be hired between business hours 9:00 - 17:00. 
 8. System has a capacity of withstanding a maximum of 500 calls at a peak time, and less subsiquently based on Relationship Managers available at given time. 
 9. Customers will be given a standard wait time of 15 minutes, and provided their place in queue. 
     * Existing statistics for average call time will be used in this function at first, but will become more accurate as RM use system
-10. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
 11. Employees have knowledge of all travel packages available, along with a database they can quickly search during a call. 
 Employees will be trained prior to new packages being available.
 12. RM are able to see caller demographics/data on their screen automatically as they recieve call
@@ -105,17 +102,17 @@ Employees will be trained prior to new packages being available.
   <td>As a RM I would like to be able to redirect calls so that I can direct customers to other RMs/Departments </td>
    </tr>
      <tr>
-  <td colspan="9">Developer </td>
+  <td colspan="9">Call Management Centre (CMC) </td>
  </tr>
  <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As the CMC I would like to keep track of all calls made so that I can refer back to the log in case of a complaint from a customer</td>
+  <td>As the CMC I would like keep track of all sales and potential sales so that I can keep a running log of how much money is being made and also for any complaints made by customers and insurance</td>
+  <td>As the CMC I would like to keep a list of RMs so that I can allocate them to customers suited to them best</td>
+  <td>As the CMC I would like to keep track of holiday locations so that I can best match customers to their desired location</td>
+  <td>As the CMC I would like to keep a log of customers so that I can help serve them better next time they call</td>
    </tr>
      <tr>
-  <td colspan="9">Product Owner/Client </td>
+  <td colspan="9">Product Owner/Major Travel Company/Client </td>
  </tr>
  <tr>
   <td>As a ____ I would like ____ so that I can ________</td>
@@ -130,11 +127,12 @@ Employees will be trained prior to new packages being available.
 
 | Stakeholders        | Explanation  |
 | ------------- |:-------------:|
-| Product Owner      | They are a stakeholder as they are the person who owns and funds the product. |
+| Product Owner/Major Travel Company      | They are a stakeholder as they are the person who owns and funds the product. |
 | Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
 | Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
 | Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
 | Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
+| Call Management Centre (CMC) | They are a section within the major travel company. This is where all RMs work, making the management centre a particularly important stakeholder with the new software. |
 
 Customer User Stories
 1. As a Customer, I want to be connected to the relationship manager so that I can inquire information about a travel package.
@@ -162,6 +160,15 @@ Make a backlog and user story diagram
 # Assumptions
 5. List assumptions you have made in the systems analysis. 
 (everyone has to do at least 5)
+
+(Jacob - 2 from above + 3):
+1. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
+Staff assumed to be hired between business hours 9:00 - 17:00. 
+2. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
+3. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
+4. CMC system has another system in place to allow recording of all incoming calls
+5. RM's profile is automatically updated with every customer they deal with
+
 
 # Proposed Models
 UI “screens”
