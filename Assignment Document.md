@@ -1,4 +1,4 @@
-# Project Objectives (Johan)
+# Project Objectives
 A major travel company has tasked us with developing an information system that improves the operation of their in-house call management centre. 
 This system will automatically assign end customers to well informed relationship managers with appropriate knowledge of the destination and its traditions. 
 This process is done based on the match between a customer's profile and a relationship managers profile and skill. 
@@ -15,7 +15,7 @@ Customer is redirected to a relationship manager according to skills and best ma
 During busy times a customer is directed to an interactive voice response unit promoting them for options. 
 It may ask a few questions before redirecting the customer to the automatic call distributor routing the call to the first available appropriate relationship manager.
 
-# Scope (Erina Delinicolas) (Includes assumptions)
+# Scope/Assumptions
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
     * Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
     * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
@@ -64,6 +64,17 @@ Employees will be trained prior to new packages being available.
 18. Relationship managers skill score rating is based on:
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
+    
+19. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
+Staff assumed to be hired between business hours 9:00 - 17:00. 
+
+20. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
+
+21. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
+
+22. CMC system has another system in place to allow recording of all incoming calls
+
+23. RM's profile is automatically updated with every customer they deal with
     
 # Empathy Maps
 ## Customer 
@@ -138,8 +149,10 @@ Customer User Stories
 1. As a Customer, I want to be connected to the relationship manager so that I can inquire information about a travel package.
 2. As a Customer, I want to be connected to the relationship manager in a timely manner so that I do not have to wait too long.
 
+# Case Diagram
+![Case Diagram](https://user-images.githubusercontent.com/62222787/81809135-319f1980-9564-11ea-8ceb-50b3006326d4.JPG)
 
-# Approaches (Week 9-10) 
+# Approaches/Justification
 In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
 Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
 
@@ -151,28 +164,18 @@ Prototype: In this stage an early version of the product is made to test the vot
 
 Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this phase we will test the product ourselves.
 
+Case Diagrams
+We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases.
+Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
 
-# Development Methodology (Agile) (Week 4)
+Activity Diagrams
+We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram.
+This will allow the development team to visualise what is the system needs.
+
+# Development Methodology (Agile)
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
 Look at SES team charter
 Make a backlog and user story diagram
-
-# Assumptions
-5. List assumptions you have made in the systems analysis. 
-(everyone has to do at least 5)
-
-(Jacob - 2 from above + 3):
-1. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
-Staff assumed to be hired between business hours 9:00 - 17:00. 
-2. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
-3. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
-4. CMC system has another system in place to allow recording of all incoming calls
-5. RM's profile is automatically updated with every customer they deal with
-
-
-# Proposed Models
-UI “screens”
-
 
 8. Document in GitHub all your iteration and models as you progress
 (update your work in github so its recorded)
