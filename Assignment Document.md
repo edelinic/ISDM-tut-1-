@@ -117,11 +117,11 @@ Employees will be trained prior to new packages being available.
   <td colspan="9">Product Owner/Client </td>
  </tr>
  <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a Product Owner, I would like to have a customer database so that I can analyse the statistics of the calls </td>
+  <td>As a Product Owner, I would like to have a call maintenance session every fortnight so that I can prevent problems from occurring </td>
+  <td>As a Product Owner, I would like a list of calls that occurred on the day so that I can track any suspicious activity</td>
+  <td>As a Product Owner, I would like to have an employee database so that I can identify their personal information as contacts</td>
+  <td>As a Product Owner, I would like to hold weekly seminars so that I can summarise the activities that occurred</td>
    </tr>
 </table>
 
