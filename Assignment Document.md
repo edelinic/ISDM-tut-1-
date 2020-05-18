@@ -81,7 +81,7 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
 
 ## Developer 
-![empathy map](https://github.com/edelinic/ISDM-tut-1-/blob/Developer-Empathy-map/DeveloperEmpathyMap.png)
+![Developer Empathy Map](https://github.com/edelinic/ISDM-tut-1-/blob/Customer-activity-diagram/DeveloperEmpathyMap.png)
 
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
@@ -157,6 +157,8 @@ Customer User Stories
 
 # Activity Diagram
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
+## Customer Calling Agency
+![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/Customer-activity-diagram/Customer%20Calling%20Agency%20Activity%20diagram.png)
 
 # Approaches/Justification
 In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
