@@ -150,7 +150,7 @@ Customer User Stories
 2. As a Customer, I want to be connected to the relationship manager in a timely manner so that I do not have to wait too long.
 
 # Case Diagram
-![Case Diagram](https://user-images.githubusercontent.com/62222787/81809135-319f1980-9564-11ea-8ceb-50b3006326d4.JPG)
+![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
 
 # Approaches/Justification
 In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
