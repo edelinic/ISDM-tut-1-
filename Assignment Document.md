@@ -85,6 +85,9 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
+## Product Owner
+<img width="557" alt="Annotation 2020-05-11 104959" src="https://user-images.githubusercontent.com/62222776/81515212-474eec00-9376-11ea-8175-e529d7bc1237.png">
+
 
 # User Story Map
 
@@ -126,11 +129,11 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
   <td colspan="9">Product Owner/Major Travel Company/Client </td>
  </tr>
  <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
+  <td>As a Product Owner, I would like to have a customer database so that I can analyse the statistics of the calls </td>
+  <td>As a Product Owner, I would like to have a call maintenance session every fortnight so that I can prevent problems from occurring </td>
+  <td>As a Product Owner, I would like a list of calls that occurred on the day so that I can track any suspicious activity</td>
+  <td>As a Product Owner, I would like to have an employee database so that I can identify their personal information as contacts</td>
+  <td>As a Product Owner, I would like to hold weekly seminars so that I can summarise the activities that occurred</td>
    </tr>
 </table>
 
