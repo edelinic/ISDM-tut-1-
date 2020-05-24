@@ -152,6 +152,11 @@ Customer User Stories
 # Case Diagram
 ![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
 
+#Activity Diagrams
+
+#Class Diagram 
+![Travel Company](https://user-images.githubusercontent.com/59853181/82755441-cd5b4000-9e16-11ea-93e2-26bed286b881.jpg)
+
 # Approaches/Justification
 In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
 Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
