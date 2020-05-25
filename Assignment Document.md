@@ -88,54 +88,8 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Product Owner
 <img width="557" alt="Annotation 2020-05-11 104959" src="https://user-images.githubusercontent.com/62222776/81515212-474eec00-9376-11ea-8175-e529d7bc1237.png">
 
-
 # User Story Map
-
-
-# User Story 
-
-<table>
-  <tr>
-  <td colspan="9">Customer</td>
- </tr>
- <tr>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-  <td>As a ____ I would like ____ so that I can ________</td>
-   </tr>
-  <tr>
-  <td colspan="9">Relationship Manager</td>
- </tr>
- <tr>
-  <td>As a RM I would like an interactive voice response unit so that I can have more streamlined calls</td>
-  <td>As a RM I would like to see caller demograpics on my screen so that I can taylor my approach for each customer </td>
-  <td>As a RM I would like to see all available travel packages so that I can discuss with customer </td>
-  <td>As a RM I would like a script so that I can provide improved service to customers</td>
-  <td>As a RM I would like to be able to redirect calls so that I can direct customers to other RMs/Departments </td>
-   </tr>
-     <tr>
-  <td colspan="9">Call Management Centre (CMC) </td>
- </tr>
- <tr>
-  <td>As the CMC I would like to keep track of all calls made so that I can refer back to the log in case of a complaint from a customer</td>
-  <td>As the CMC I would like keep track of all sales and potential sales so that I can keep a running log of how much money is being made and also for any complaints made by customers and insurance</td>
-  <td>As the CMC I would like to keep a list of RMs so that I can allocate them to customers suited to them best</td>
-  <td>As the CMC I would like to keep track of holiday locations so that I can best match customers to their desired location</td>
-  <td>As the CMC I would like to keep a log of customers so that I can help serve them better next time they call</td>
-   </tr>
-     <tr>
-  <td colspan="9">Product Owner/Major Travel Company/Client </td>
- </tr>
- <tr>
-  <td>As a Product Owner, I would like to have a customer database so that I can analyse the statistics of the calls </td>
-  <td>As a Product Owner, I would like to have a call maintenance session every fortnight so that I can prevent problems from occurring </td>
-  <td>As a Product Owner, I would like a list of calls that occurred on the day so that I can track any suspicious activity</td>
-  <td>As a Product Owner, I would like to have an employee database so that I can identify their personal information as contacts</td>
-  <td>As a Product Owner, I would like to hold weekly seminars so that I can summarise the activities that occurred</td>
-   </tr>
-</table>
+![user-story-map-png](https://user-images.githubusercontent.com/59853181/82756723-3777e300-9e1f-11ea-88b5-1db816d76e1c.PNG)
 
 # Stakeholders
 
