@@ -188,7 +188,9 @@ Make a backlog and user story diagram
 8. Document in GitHub all your iteration and models as you progress
 (update your work in github so its recorded)
 
-# Competitive Advantages
+# Competitive Advantages and If the Project Fails
+If the project is considered as a failure, there is a number of consequences. The following consequences may include losing trust from respective stakeholders, losing funding which leads to bankruptcy, and sustaining a bad reputation out in the workforce. Such consequences can negatively affect it's respective employees with a bad employee record or simply being pointed out working in a terrible company with a negative perspective from future employers. In addition, losing trust in respective stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant and continue to support that project to surpass its respective competitors. Overall, the former employees and employers from the failed project would have lost a lot of money from their own respective pockets and time from attempting to invest time into the project and managing a career and earning a sustainable amount of money. But from the lack of confidence and assertion whilst working in the workforce, much time and money will be wasted away whilst the more successful projects continue to surpass others. 
+
 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
 
 
