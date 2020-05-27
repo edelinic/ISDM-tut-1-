@@ -142,14 +142,6 @@ In our approach to this information systems development project we have decided 
 Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. We also brainstormed point of view statements and How might be statements to allow us to ideate and allow us to brainstorm possible solutions. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
 
 Define: In this stage we define the problems that have been identified through empathising stage. We created user stories based on the initial assumptions made on the document, POV statements, HMW statements and empathy maps. These user stories were then put into a user story map allowing us to prioritise the most important problems and plan out the project. 
- 
-Case Diagrams
-We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases.
-Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
-
-Activity Diagrams
-We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram.
-This will allow the development team to visualise what is the system needs.
 
 # Case Diagram
 ![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
@@ -165,12 +157,13 @@ This will allow the development team to visualise what is the system needs.
 ![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
 
 # Development Methodology (Agile)
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
-Look at SES team charter
-Make a backlog and user story diagram
+The development methodology we have chosen to use is scrum. Scrum is a development metholodgy that assumes the software development process is unpredictable. It is a continual iterative process where development is planned out into small increments and adjusted accordingly to any of the possible outcomes. The activities that we have used from scrum include:
 
-8. Document in GitHub all your iteration and models as you progress
-(update your work in github so its recorded)
+1. * Backlog: We made a backlog to allocate tasks that needed to be done each week.
+
+2. * User Stories: We made user stories to descripe features of the product. Furthermore we made a user story map to prioritise them.
+
+3. * Sprint Planning/Reviewing/Retrospective: We planned out the work that had to be done according to the backlog and after the sprint we would get feedback on our progress from our tutor/customer and them we would reflect on the feedback.
 
 # Competitive Advantages
 This new system will create a competitive advantage over other travel companies. through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
