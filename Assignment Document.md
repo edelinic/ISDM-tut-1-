@@ -136,6 +136,21 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 # User Story Map
 ![user-story-map-png](https://user-images.githubusercontent.com/59853181/82756723-3777e300-9e1f-11ea-88b5-1db816d76e1c.PNG)
 
+# Approaches/Justification
+In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have currently applied stages 1 and 2 of design thinking, this includes:
+
+Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. We also brainstormed point of view statements and How might be statements to allow us to ideate and allow us to brainstorm possible solutions. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
+
+Define: In this stage we define the problems that have been identified through empathising stage. We created user stories based on the initial assumptions made on the document, POV statements, HMW statements and empathy maps. These user stories were then put into a user story map allowing us to prioritise the most important problems and plan out the project. 
+ 
+Case Diagrams
+We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases.
+Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
+
+Activity Diagrams
+We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram.
+This will allow the development team to visualise what is the system needs.
+
 # Case Diagram
 ![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
 
@@ -148,26 +163,6 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
 ## Customer Calling Agency
 ![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
-
-# Approaches/Justification
-In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. The design thinking approach consist of 5 stages:
-Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
-
-Define: In this stage we define the problems that have been identified through empathising with each stakeholder. We created user stories based on the assumptions and empathy maps. These user stories were then put into a user story map allowing us to prioritise the most important problems. 
- 
-Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We will use the point of view of our team to question how might we solve the issues we have gathered. We provide as many answers as possible and vote as a team on which solution is the best.
-
-Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. In this phase we will propose work products and  models based on the solution that we had voted for.
-
-Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this phase we will test the product ourselves.
-
-Case Diagrams
-We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases.
-Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
-
-Activity Diagrams
-We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram.
-This will allow the development team to visualise what is the system needs.
 
 # Development Methodology (Agile)
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
