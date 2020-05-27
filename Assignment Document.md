@@ -22,7 +22,7 @@ Empathise: In this stage we consider every stakeholder involved with the informa
 
 Define: In this stage we define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps. These POV statements will allow us to ideate with a set goal in mind.
 
-Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. We then brianstormed provide as many answers as possible in the form of user stories and voted as a team on which solution is the best.
+Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. HMW statements gives us a starting point to brainstorm from. We then brianstormed provide as many answers as possible in the form of user stories and voted as a team on which solution is the best.
 
 Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. Models that we used in this project include:
 
