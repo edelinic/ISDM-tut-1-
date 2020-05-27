@@ -78,6 +78,38 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 
 24. There will be a payment function for customer over the phone that will be processed by the RM through the system.
 
+# Pov Statements
+1. * A customer needs to have a meaningful conversation with the relationship manager because they are investing a large amount of money and time with their purchase.
+
+2. * A customer needs to be able to communicate effectively to the relationship manager because it will reduce the loss of information between them, furthermore it reduces tension and stress.
+
+3. * A customer needs to be able to securely pay for the service because they are investing a large amount of money and trust into the product.
+
+4. * A customer needs to understand how to use the interactive response unit because they might hang up if they are confused.
+
+5. * A relationship manager needs to have the right knowledge that a customer needs because they want to ensure the customer gets quality service and to reduce their call times allowing for more calls.
+
+6. * A relationship manager needs to be able to communicate effectively to the customer because it will reduce the loss of information between them, furthermore it reduces tension and stress.
+
+7. * A relationship manager needs to be able to securely process payment for the service because they want to ensure the customer gets the service and they do not want to be liable for any possible malfunctions.
+
+8. * A relationship manager needs to be able to understand how the system works with ease because it will allow them to work efficiently and reduces the amount of stress from learning.
+
+# HMW Statements
+1. * How might we speed up call times between customers and relationship managers?
+
+2. * How might we facilitate meaningful conversations between customer and relationship managers?
+
+3. * How might we inform a customer about the product whilst in a call?
+
+4. * How might we prepare the relationship manager before their call?
+
+5. * How might we ensure both customer and relationship managers can communicate with each other effectively?
+
+6. * How might we ensure that payments are secure for both customer and relationship managers?
+
+7. * How might we ensure that customers are not confused during calls or when they are connected to the interactive response unit?
+
 # Stakeholders
 
 | Stakeholders        | Explanation  |
