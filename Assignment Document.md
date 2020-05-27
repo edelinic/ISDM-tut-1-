@@ -137,11 +137,27 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![user-story-map-png](https://user-images.githubusercontent.com/59853181/82756723-3777e300-9e1f-11ea-88b5-1db816d76e1c.PNG)
 
 # Approaches/Justification
-In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have currently applied stages 1 and 2 of design thinking, this includes:
+In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have applied all 5 stages of design thinking in the project, this includes:
 
-Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. We also brainstormed point of view statements and How might be statements to allow us to ideate and allow us to brainstorm possible solutions. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
+Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
 
-Define: In this stage we define the problems that have been identified through empathising stage. We created user stories based on the initial assumptions made on the document, POV statements, HMW statements and empathy maps. These user stories were then put into a user story map allowing us to prioritise the most important problems and plan out the project. 
+Define: In this stage we define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps.
+
+Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. We then brianstormed provide as many answers as possible in the form of user stories and voted as a team on which solution is the best.
+
+Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. Models that we used in this project include:
+
+1. * Case Diagrams: We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases. Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
+
+2. * Activity Diagrams: We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram. This will allow the development team to visualise what is the system needs.
+
+3. * Class Diagrams: We have used class diagrams as it gives an indepth view of the structure of the system. Classes, attributes, operations and relationships between objects are shown allowing for the developers to easily understand what needs to be done.
+
+4. * Collaberation Diagrams: We have used collaberation diagrams as it shows the realtionship between objects to create a particular use case. This will allow developers to easily understand and implement the objects and their relationships accordingly.
+
+
+Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this case we got weekly feedback from out tutor on our progress and made adjustments to our work accordingly.
+
 
 # Case Diagram
 ![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
@@ -169,8 +185,3 @@ The development methodology we have chosen to use is scrum. Scrum is a developme
 This new system will create a competitive advantage over other travel companies. through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
 
 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
-
-
-6. Document your proposed work products and models. 
-
-
