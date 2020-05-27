@@ -20,7 +20,7 @@ In our approach to this information systems development project we have decided 
 
 Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
 
-Define: In this stage we define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps.
+Define: In this stage we define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps. These POV statements will allow us to ideate with a set goal in mind.
 
 Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. We then brianstormed provide as many answers as possible in the form of user stories and voted as a team on which solution is the best.
 
