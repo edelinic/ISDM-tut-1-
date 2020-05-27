@@ -75,7 +75,18 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 22. CMC system has another system in place to allow recording of all incoming calls
 
 23. RM's profile is automatically updated with every customer they deal with
-    
+
+# Stakeholders
+
+| Stakeholders        | Explanation  |
+| ------------- |:-------------:|
+| Product Owner/Major Travel Company      | They are a stakeholder as they are the person who owns and funds the product. |
+| Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
+| Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
+| Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
+| Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
+| Call Management Centre (CMC) | They are a section within the major travel company. This is where all RMs work, making the management centre a particularly important stakeholder with the new software. |
+
 # Empathy Maps
 ## Customer 
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
@@ -90,21 +101,6 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 
 # User Story Map
 ![user-story-map-png](https://user-images.githubusercontent.com/59853181/82756723-3777e300-9e1f-11ea-88b5-1db816d76e1c.PNG)
-
-# Stakeholders
-
-| Stakeholders        | Explanation  |
-| ------------- |:-------------:|
-| Product Owner/Major Travel Company      | They are a stakeholder as they are the person who owns and funds the product. |
-| Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
-| Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
-| Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
-| Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
-| Call Management Centre (CMC) | They are a section within the major travel company. This is where all RMs work, making the management centre a particularly important stakeholder with the new software. |
-
-Customer User Stories
-1. As a Customer, I want to be connected to the relationship manager so that I can inquire information about a travel package.
-2. As a Customer, I want to be connected to the relationship manager in a timely manner so that I do not have to wait too long.
 
 # Case Diagram
 ![image](https://user-images.githubusercontent.com/62222787/82164760-82609a80-98f5-11ea-8a3b-b9ab987afbca.png)
