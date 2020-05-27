@@ -175,7 +175,7 @@ Test: This is an iterative process where tests are done on the completed product
 # Development Methodology (Agile)
 The development methodology we have chosen to use is scrum. Scrum is a development metholodgy that assumes the software development process is unpredictable. It is a continual iterative process where development is planned out into small increments and adjusted accordingly to any of the possible outcomes. The activities that we have used from scrum include:
 
-1. * Backlog: We made a backlog to allocate tasks that needed to be done each week. This will allow us to keep track and prioritise tasks during development depending on circumstances.
+1. * Backlog: We made a backlog using the github issues function to allocate tasks that needed to be done each week. This will allow us to keep track and prioritise tasks during development depending on circumstances.
 
 2. * User Stories: We made user stories to descripe features of the product. Furthermore we made a user story map to prioritise them. This will allow us to create multiple object oriented artifacts that will assist in development.
 
