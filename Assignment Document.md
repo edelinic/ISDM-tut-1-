@@ -44,7 +44,7 @@ Employees will be trained prior to new packages being available.
     * Address
     * Sale Success Rating
     * Phone Number
-16. Relationship managers profile include information such as:
+16. RM profile include information such as:
     * Age
     * Sex
     * Culture
@@ -61,7 +61,7 @@ Employees will be trained prior to new packages being available.
     * The amount of time a customer spends on average talkining to a relationship manager
     * The voice quality of the customer
 
-18. Relationship managers skill score rating is based on:
+18. RM skill score rating is based on:
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
     
@@ -75,6 +75,8 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 22. CMC system has another system in place to allow recording of all incoming calls
 
 23. RM's profile is automatically updated with every customer they deal with
+
+24. There will be a payment function for customer over the phone that will be processed by the RM through the system.
 
 # Stakeholders
 
