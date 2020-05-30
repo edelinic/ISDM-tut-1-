@@ -168,9 +168,12 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 # Activity Diagram
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
 
-# Collaborative Diagram
+# Collaborative Diagrams
+## Create RM Profile
 ![Untitled Diagram](https://user-images.githubusercontent.com/62222776/83156745-1fb59d00-a146-11ea-9241-3b86db1ced23.png)
-
+## Customer Calling CMC
+![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
+   
 ## Customer Calling Agency
 ![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
 
