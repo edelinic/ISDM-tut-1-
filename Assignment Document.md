@@ -166,7 +166,16 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![Travel Company](https://user-images.githubusercontent.com/59853181/82755441-cd5b4000-9e16-11ea-93e2-26bed286b881.jpg)
 
 # Activity Diagram
+
+## Payment Over Phone
+![image](https://user-images.githubusercontent.com/59853181/83352293-c50e8200-a38d-11ea-894e-c3f869e16ea0.png)
+
+## Create RM Profile
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
+
+## Customer Calling Agency
+![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
+
 
 # Collaborative Diagrams
 ## Create RM Profile
@@ -174,9 +183,6 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Customer Calling CMC
 ![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
    
-## Customer Calling Agency
-![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
-
 # Competitive Advantages
 This new system will create a competitive advantage over other travel companies. through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
 
