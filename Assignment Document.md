@@ -192,7 +192,13 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
 ## Payment Over Phone
 ![make-payment-collaborative](https://user-images.githubusercontent.com/59853181/83406224-8a6e1d80-a451-11ea-9097-2522cb97dada.PNG)
-   
+## Voice Response Unit
+![Voice Response Unit CD](https://user-images.githubusercontent.com/62222787/83410558-ed63b280-a459-11ea-8616-7a3a35d93efe.JPG)
+## Inbound Call
+![Inbound Call CD](https://user-images.githubusercontent.com/62222787/83410648-15ebac80-a45a-11ea-9350-ad4512232586.JPG)
+## Outbound Call
+![Outbound Call CD](https://user-images.githubusercontent.com/62222787/83410683-2bf96d00-a45a-11ea-9e2d-35c7e7480194.JPG)
+
 # Outcomes
 ## Competitive Advantages
 This new system will create a competitive advantage over other travel companies. Through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. 
