@@ -172,6 +172,9 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Create RM Profile
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
 
+## Inbound Call
+![Inbound Call AD](https://user-images.githubusercontent.com/62222787/83398141-209a4780-a442-11ea-8869-894f5439b2c3.JPG)
+
 ## Customer Calling Agency
 ![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
 
