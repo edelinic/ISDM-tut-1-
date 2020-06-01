@@ -58,9 +58,8 @@ The development methodology we have chosen to use is scrum. Scrum is a developme
     * Age <18, 28>, <28-38> <38-48>, <58 , 100>
     * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
 6. Passport holdings data will be stored as individual categories 
-8. System has a capacity of withstanding a maximum of 500 calls at a peak time, and less subsiquently based on Relationship Managers available at given time. 
+8. System has a capacity of withstanding a maximum of 500 calls at a peak time
 9. Customers will be given a standard wait time of 15 minutes, and provided their place in queue. 
-    * Existing statistics for average call time will be used in this function at first, but will become more accurate as RM use system
 11. Employees have knowledge of all travel packages available, along with a database they can quickly search during a call. 
 Employees will be trained prior to new packages being available.
 12. RM are able to see caller demographics/data on their screen automatically as they recieve call
@@ -93,7 +92,7 @@ Employees will be trained prior to new packages being available.
 18. RM skill score rating is based on:
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
-19. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online to most adequately redirect calls.
+19. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online 
 Staff assumed to be hired between business hours 9:00 - 17:00. 
 20. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
 21. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
@@ -166,7 +165,16 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![Travel Company](https://user-images.githubusercontent.com/59853181/82755441-cd5b4000-9e16-11ea-93e2-26bed286b881.jpg)
 
 # Activity Diagram
+
+## Payment Over Phone
+![image](https://user-images.githubusercontent.com/59853181/83352293-c50e8200-a38d-11ea-894e-c3f869e16ea0.png)
+
+## Create RM Profile
 ![Create RM Profile AD](https://user-images.githubusercontent.com/62222776/82164363-9c00e280-98f3-11ea-91c6-b8b9bb1f2ca8.png)
+
+## Customer Calling Agency
+![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
+
 
 # Collaborative Diagrams
 ## Create RM Profile
@@ -174,11 +182,17 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Customer Calling CMC
 ![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
    
-## Customer Calling Agency
-![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
+# Outcomes
+## Competitive Advantages
+This new system will create a competitive advantage over other travel companies. Through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. 
 
-# Competitive Advantages
-This new system will create a competitive advantage over other travel companies. through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
+Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. 
 
-## Competitive Advantages and If the Project Fails
-If the project is considered as a failure, there is a number of consequences. The following consequences may include losing trust from respective stakeholders, losing funding which leads to bankruptcy, and sustaining a bad reputation out in the workforce. Such consequences can negatively affect it's respective employees with a bad employee record or simply being pointed out working in a terrible company with a negative perspective from future employers. In addition, losing trust in respective stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant and continue to support that project to surpass its respective competitors. Overall, the former employees and employers from the failed project would have lost a lot of money from their own respective pockets and time from attempting to invest time into the project and managing a career and earning a sustainable amount of money. But from the lack of confidence and assertion whilst working in the workforce, much time and money will be wasted away whilst the more successful projects continue to surpass others. 
+For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
+
+## If the Project Fails
+If the project is considered as a failure, there is a number of consequences. The following consequences may include losing trust from respective stakeholders, losing funding which leads to bankruptcy, and sustaining a bad reputation out in the workforce. Such consequences can negatively affect it's respective employees with a bad employee record or simply being pointed out working in a terrible company with a negative perspective from future employers. 
+
+In addition, losing trust in respective stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. 
+
+Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant and continue to support that project to surpass its respective competitors. Overall, the former employees and employers from the failed project would have lost a lot of money from their own respective pockets and time from attempting to invest time into the project and managing a career and earning a sustainable amount of money. But from the lack of confidence and assertion whilst working in the workforce, much time and money will be wasted away whilst the more successful projects continue to surpass others. 
