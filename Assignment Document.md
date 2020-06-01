@@ -121,7 +121,7 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
 ## Product Owner
-<img width="557" alt="Annotation 2020-05-11 104959" src="https://user-images.githubusercontent.com/62222776/81515212-474eec00-9376-11ea-8175-e529d7bc1237.png">
+![Empathy Map](https://user-images.githubusercontent.com/62222787/83399403-7d96fd00-a444-11ea-9017-77ebfa71e7fc.JPG)
 
 # Pov Statements
 1. * A customer needs to have a meaningful conversation with the relationship manager because they are investing a large amount of money and time with their purchase.
