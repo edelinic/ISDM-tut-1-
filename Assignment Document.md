@@ -190,6 +190,8 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ![Untitled Diagram](https://user-images.githubusercontent.com/62222776/83156745-1fb59d00-a146-11ea-9241-3b86db1ced23.png)
 ## Customer Calling CMC
 ![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
+## Payment Over Phone
+![make-payment-collaborative](https://user-images.githubusercontent.com/59853181/83406224-8a6e1d80-a451-11ea-9097-2522cb97dada.PNG)
    
 # Outcomes
 ## Competitive Advantages
