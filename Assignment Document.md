@@ -201,3 +201,5 @@ If the project is considered as a failure, there is a number of consequences. Th
 In addition, losing trust in stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. 
 
 Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant projects of respective competitors. Overall, the employes/investors from the failed project would have lost a lot of money and time from the failed project.
+
+[Presentation Youtube Link](https://youtu.be/mBAdbKHoRPE)
