@@ -4,46 +4,42 @@ This system will automatically assign end customers to well informed relationshi
 This process is done based on the match between a customer's profile and a relationship managers profile and skill. 
 A customers profile will be automatically made using a profiler tool and a relationship managers profile is made through a 10 minute questionnaire upon them being hired. 
 A relationship managers profile may include age, sex, culture, language proficiency, experience and product knowledge. 
-During outbound calls the system automatically calls a customer according to a customer target list. 
-This list consists of tuples of information in the form of <potential customer, Product proposed> and it is provided to a specific relationship manager. 
 The system retrieves the customer details from the database and provides the relationship manager guidelines and a script to help provide improved service to the end customer. 
 For Inbound calls a customer contacts the CMC which has its own private branch exchange to route calls. 
 A customer will get a score from 1-10 based on the likelihood to purchase the product (e.g. repeat customers may have a higher score, customers from particular postcodes may have lower scores, etc..). 
-A customer with higher scores is served first. 
 Similarly a skill score is allocated to a relationship manager based on their previous call duration and profile. 
 Customer is redirected to a relationship manager according to skills and best match. 
-During busy times a customer is directed to an interactive voice response unit promoting them for options. 
-It may ask a few questions before redirecting the customer to the automatic call distributor routing the call to the first available appropriate relationship manager.
+During busy times a customer is directed to an interactive voice response unit promoting them for options, and gathering information.
 
 # Approaches/Justification
-In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have applied all 5 stages of design thinking in the project, this includes:
+In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have applied all 5 stages of design thinking in the project:
 
-Empathise: In this stage we consider every stakeholder involved with the information system development project and try to regard every possible problem and wants they may have. In this case we identified all the stakeholders but did not utelise the interview method and made reasonable assumptions on the requirement document given to us. Furthermore we made empathy maps to get a deeper insight towards the specific stakeholder.
+Empathise: In this stage we considered every stakeholder involved with the information system development project and try to regard their wants/needs. Since we couldn't utilize interviews, we instead made reasonable assumptions based the requirement document given to us, and also created empathy maps to give us deeper insight to stakeholders.
 
-Define: In this stage we define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps. These POV statements will allow us to ideate with a set goal in mind.
+Define: We define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps. These POV statements will allow us to ideate with a set goal in mind.
 
-Ideate: In this stage ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. HMW statements gives us a starting point to brainstorm from. We then brianstormed provide as many answers as possible in the form of user stories and voted as a team on which solution is the best.
+Ideate: Ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. From there, we brainstormed in the form of user stories and developed a best solution.
 
 Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. Models that we used in this project include:
 
-1. * Case Diagrams: We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases. Furthermore, it can be used as a communication tool to convey they development teams ideas to a person with less software development experience e.g. project owner.
+1. * Case Diagrams: We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases. Furthermore, it can be used as a communication tool to between the development team and less software-literate stakeholders.
 
 2. * Activity Diagrams: We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram. This will allow the development team to visualise what is the system needs.
 
 3. * Class Diagrams: We have used class diagrams as it gives an indepth view of the structure of the system. Classes, attributes, operations and relationships between objects are shown allowing for the developers to easily understand what needs to be done.
 
-4. * Collaberation Diagrams: We have used collaberation diagrams as it shows the realtionship between objects to create a particular use case. This will allow developers to easily understand and implement the objects and their relationships accordingly.
+4. * Collaboration Diagrams: We have used collaberation diagrams as it shows the realtionship between objects to create a particular use case. This will allow developers to easily understand and implement the objects and their relationships accordingly.
 
-Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this case we got weekly feedback from out tutor on our progress and made adjustments to our work accordingly.
+Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this case we got weekly feedback from out tutor and made adjustments accordingly.
 
 # Development Methodology (Agile)
-The development methodology we have chosen to use is scrum. Scrum is a development metholodgy that assumes the software development process is unpredictable. It is a continual iterative process where development is planned out into small increments and adjusted accordingly to any of the possible outcomes. The activities that we have used from scrum include:
+The development methodology we have chosen to use is Scrum Methodology, which assumes the software development process is unpredictable. It is a continual iterative process where development is planned out into small increments and adjusted accordingly to any of the possible outcomes. The activities that we have used from scrum include:
 
 1. * Backlog: We made a backlog using the github issues function to allocate tasks that needed to be done each week. This will allow us to keep track and prioritise tasks during development depending on circumstances.
 
 2. * User Stories: We made user stories to descripe features of the product. Furthermore we made a user story map to prioritise them. This will allow us to create multiple object oriented artifacts that will assist in development.
 
-3. * Sprint Planning/Reviewing/Retrospective: We planned out the work that had to be done according to the backlog and after the sprint we would get feedback on our progress from our tutor/customer and them we would reflect on the feedback. This will allow us to improve on our mistakes and further improve on our strenths.
+3. * Sprint Planning/Retrospective: We planned out the work that had to be done according to the backlog and after the sprint we would get feedback on our progress from our tutor/customer and them we would reflect on the feedback. This will allow us to improve on our mistakes and further improve on our strenths.
 
 # Scope/Assumptions
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
@@ -101,15 +97,7 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 24. There will be a payment function for customer over the phone that will be processed by the RM through the system.
 
 # Stakeholders
-
-| Stakeholders        | Explanation  |
-| ------------- |:-------------:|
-| Product Owner/Major Travel Company      | They are a stakeholder as they are the person who owns and funds the product. |
-| Customers  | The system is targeted at smoothing the communication between Relationship Managers and Customers and therefore the needs and requirements of the customers are particularly important to consider. They are the ones using the product. |
-| Managers (Inc. Relationship Managers) | Managers, particularly the Relationship Manager, will be using the system regularly. |
-| Local Community | They are a stakeholder as they will be directly affected by the product. Whether they are or anren't customers, they will be affected by the product, especially through the streamlined travel the company will provide. |
-| Developers | They develop the system and play a major role in deciding what is feasible within the timeframe. They ultimately control how the end product looks and feels. |
-| Call Management Centre (CMC) | They are a section within the major travel company. This is where all RMs work, making the management centre a particularly important stakeholder with the new software. |
+![table-idsm](https://user-images.githubusercontent.com/59853181/83491086-86dfa280-a4f4-11ea-8d84-ad26ae69b043.PNG)
 
 # Empathy Maps
 ## Customer 
@@ -197,13 +185,15 @@ Staff assumed to be hired between business hours 9:00 - 17:00.
 ## Competitive Advantages
 This new system will create a competitive advantage over other travel companies. Through automation, inbound customer calls will automatically be redirected to an appropriate RM, considering their previous customer history with the travel agency, as well as the customer’s desired travel location. 
 
-Each call is logged into the database so that a rating can be determined for the success of the call to be used to help assist further calls to be successful, as well as helping returning customers request a previous RM to help them with future travel needs. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during busy times, directing the customer to the RM as soon as one becomes available. 
+Each call is logged, and ratings calculated to rate the success of a call. This is beneficial as it will allow customers to get in contact with the appropriate RM as quick as possible to reduce the amount of people the customer will have to go through to get to their RM. This system also comes with an Interactive Voice Response unit to handle calls when the CMC gets overloaded with calls during peak times, as to not lose custoemr calls.
 
-For outbound calls, the system has a list of customers and information about those customers which it uses to automatically dial them for the RM while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
+For outbound calls, the system automatically dials customers while simultaneously generating a script for the RM to guide them for a more successful call. This provides a competitive edge over other companies as it not only provides information on each customer, but also specifically tailors a script for each individual customer, allowing for a more personalised approach. 
+
+With the rating of each call and sale afterwards and the above new feature, it will allow RMs to improve their techniques in making effective calls. Each RM is given a 10-minute survey to complete to analyse their area of expertise to help target specific customers.
 
 ## If the Project Fails
-If the project is considered as a failure, there is a number of consequences. The following consequences may include losing trust from respective stakeholders, losing funding which leads to bankruptcy, and sustaining a bad reputation out in the workforce. Such consequences can negatively affect it's respective employees with a bad employee record or simply being pointed out working in a terrible company with a negative perspective from future employers. 
+If the project is considered as a failure, there is a number of consequences. This includes losing trust from respective stakeholders, losing funding which leads to bankruptcy, and sustaining a bad reputation out in the workforce. Such consequences can negatively affect it's respective employees with a bad employee record or simply being pointed out working in a terrible company with a negative perspective from future employers. 
 
-In addition, losing trust in respective stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. 
+In addition, losing trust in stakeholders provides an excuse for employers to question the former employees whether or not their performance may affect the employer's company in a negative way. If the project loses its funding from various stakeholders, the project becomes unsustainable and is unable to continue with it's basic functions of the project. 
 
-Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant and continue to support that project to surpass its respective competitors. Overall, the former employees and employers from the failed project would have lost a lot of money from their own respective pockets and time from attempting to invest time into the project and managing a career and earning a sustainable amount of money. But from the lack of confidence and assertion whilst working in the workforce, much time and money will be wasted away whilst the more successful projects continue to surpass others. 
+Another leading consequence from declaring bankruptcy is allowing the project's major and minor competitors to surpass the failed project in terms of net worth, high reputation, and reliability. Here on, more customers and stakeholders will follow the more successful and reliant projects of respective competitors. Overall, the employes/investors from the failed project would have lost a lot of money and time from the failed project.
