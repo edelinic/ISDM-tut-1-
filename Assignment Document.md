@@ -14,45 +14,45 @@ During busy times a customer is directed to an interactive voice response unit p
 # Approaches/Justification
 In our approach to this information systems development project we have decided to use design thinking. Design thinking is an approach that involves considering what technological assets available and what business strategies are reasonable can be converted into customer value. We have applied all 5 stages of design thinking in the project:
 
-Empathise: In this stage we considered every stakeholder involved with the information system development project and try to regard their wants/needs. Since we couldn't utilize interviews, we instead made reasonable assumptions based the requirement document given to us, and also created empathy maps to give us deeper insight to stakeholders.
+Empathise: In this stage we considered stakeholders involved with the information system development project and try to regard their wants/needs. Since we couldn't utilize interviews, we instead made reasonable assumptions based the requirement document given to us, and also created empathy maps to give us deeper insight to stakeholders.
 
 Define: We define the problems that have been identified through empathising stage. We brainstormed point of view statements based off the requirements, assumptions and user story maps. These POV statements will allow us to ideate with a set goal in mind.
 
-Ideate: Ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. From there, we brainstormed in the form of user stories and developed a best solution.
+Ideate: Ideas are generated to solve the problems at hand and the best idea is used as the solution. We used the POV statemts to create HMW statemtents to help us come with ideas for the issues we have gathered. From there, we brainstormed user stories and developed a best solution.
 
 Prototype: In this stage an early version of the product is made to test the voted solution, get feedback on the prototyped solution, reduce assumptions and answer questions. Models that we used in this project include:
 
-1. * Case Diagrams: We have used case diagrams as one of our artifacts as it gives the simplist overview of the entities, relationships and cases. Furthermore, it can be used as a communication tool to between the development team and less software-literate stakeholders.
+1. * Case Diagrams: Give a simplist overview of the entities, relationships and cases. Furthermore, it can be used as a communication tool to between the development team and less software-literate stakeholders.
 
-2. * Activity Diagrams: We have used activity diagrams as one of our artifacts as it gives an overview of the flow of data within a specific case diagram. This will allow the development team to visualise what is the system needs.
+2. * Activity Diagrams: Give an overview of the flow of data within a specific case diagram. This will allow the development team to visualise what is the system needs.
 
-3. * Class Diagrams: We have used class diagrams as it gives an indepth view of the structure of the system. Classes, attributes, operations and relationships between objects are shown allowing for the developers to easily understand what needs to be done.
+3. * Class Diagrams: Give indepth view of the structure of the system. Classes, attributes, operations and relationships between objects are shown allowing for the developers to easily understand what needs to be done.
 
-4. * Collaboration Diagrams: We have used collaberation diagrams as it shows the realtionship between objects to create a particular use case. This will allow developers to easily understand and implement the objects and their relationships accordingly.
+4. * Collaboration Diagrams: Show the relaionship between objects to create a particular use case. This will allow developers to easily understand and implement the objects and their relationships accordingly.
 
 Test: This is an iterative process where tests are done on the completed product. Results used in this phase are used to redefine problems and show the understanding of a user when they are using the product. In this case we got weekly feedback from out tutor and made adjustments accordingly.
 
 # Development Methodology (Agile)
 The development methodology we have chosen to use is Scrum Methodology, which assumes the software development process is unpredictable. It is a continual iterative process where development is planned out into small increments and adjusted accordingly to any of the possible outcomes. The activities that we have used from scrum include:
 
-1. * Backlog: We made a backlog using the github issues function to allocate tasks that needed to be done each week. This will allow us to keep track and prioritise tasks during development depending on circumstances.
+1. * Backlog: We made a backlog using the github issues function to allocate tasks that needed to be done each week. This will allow us to keep track and prioritise tasks during development.
 
-2. * User Stories: We made user stories to descripe features of the product. Furthermore we made a user story map to prioritise them. This will allow us to create multiple object oriented artifacts that will assist in development.
+2. * User Stories: We made user stories to descripe features of the product. Furthermore we made a user story map to prioritise them. This will allow us to create object oriented artifacts that will assist in development.
 
-3. * Sprint Planning/Retrospective: We planned out the work that had to be done according to the backlog and after the sprint we would get feedback on our progress from our tutor/customer and them we would reflect on the feedback. This will allow us to improve on our mistakes and further improve on our strenths.
+3. * Sprint Planning/Retrospective: We planned out the work that had to be done according to the backlog and after the sprint we would get feedback on our progress from our tutor/customer and them we would reflect on the feedback. 
 
 # Scope/Assumptions
 1. RM Questionaire will be conducted at hiring to populate system, existing RMs will be required to complete questionaire
-    * Most employees are comfortable with disclosing information about their age, sex and culture - however some fields should be optional and provide a netural value
+    * Assumes most employees will disclose their age, sex and culture - however some fields should be optional and provide a netural value
     * For fields like "product knowlege," preliminary score will be provided based on matrix of employee's self-reported confidence/prior experience, and confidence of hiring managers
-2. Outbound calls are made on preliminary information stored in database, which will include information of sex, age, packages interested, interested location, collected by:
+2. Outbound calls are made based on stored information such as sex, age, packages interested, interested location, collected by:
     * Previous calls 
     * Their website that uses sign-ups, server-logs and cookies 
 3. Customers agree to be recorded for training purposes 
 4. Interactive voice response unit has good voice recognition and can have users list words that respond with their call
 5. Age Region From, Region Interested are stored as large categories, eg. 
     * Age <18, 28>, <28-38> <38-48>, <58 , 100>
-    * Region from <Asia, Africa, Europe, Latin America and the Caribbean, Northern America, Oceania>
+    * Region from <Asia, Africa, Europe, Latin America/Caribbean, Northern America, Oceania>
 6. Passport holdings data will be stored as individual categories 
 8. System has a capacity of withstanding a maximum of 500 calls at a peak time
 9. Customers will be given a standard wait time of 15 minutes, and provided their place in queue. 
@@ -74,11 +74,10 @@ Employees will be trained prior to new packages being available.
     * Sex
     * Culture
     * Language Proficiency
-    * Address, Product Knowledge
+    * Product Knowledge
     * Experience, Skill Score Rating
     * Phone Number
     * Employee ID
-    * Profile Image
 17. Customer sale success rating is based on:
     * If the customer is a repeat customer
     * If the customer is from a particular post code
@@ -88,9 +87,8 @@ Employees will be trained prior to new packages being available.
 18. RM skill score rating is based on:
     * Previous call duration
     * Similarities between relationship managers profile and customers profile. 
-19. Call Centres will be located in various countries across the world, therefore re-routing systems can see which regions/centres are online 
-Staff assumed to be hired between business hours 9:00 - 17:00. 
-20. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM based on answers selected on keypad
+19. Call Centres will be located in various countries across the world, and system can see which regionsare online Staff will work between business hours 9:00 - 17:00. 
+20. Customer's inbound calls go through quick questionnaire with robot before being redirected to appropriate RM
 21. CMC system will be used in conjunction with existing systems, such as forms that RM already use to sell Travel Packages
 22. CMC system has another system in place to allow recording of all incoming calls
 23. RM's profile is automatically updated with every customer they deal with
