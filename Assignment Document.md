@@ -102,12 +102,12 @@ Employees will be trained prior to new packages being available.
 ![empathy map](https://user-images.githubusercontent.com/62222787/80952888-c788c500-8e3d-11ea-81c6-745241f2036f.png)
 
 ## Developer 
-![Developer Empathy Map](https://github.com/edelinic/ISDM-tut-1-/blob/master/DeveloperEmpathyMap.png)
+![DeveloperEmpathyMap](https://user-images.githubusercontent.com/62222787/83503657-c2836800-a506-11ea-9a8b-362933226e8b.png)
 
 ## Relationship Manager 
 ![Relationship-Manager-Empathy-Map](https://user-images.githubusercontent.com/59853181/81492332-102afd00-92da-11ea-8330-59202f72a95b.jpg)
 ## Product Owner
-![Empathy Map](https://user-images.githubusercontent.com/62222787/83399403-7d96fd00-a444-11ea-9017-77ebfa71e7fc.JPG)
+![Kenneth EP](https://user-images.githubusercontent.com/62222787/83504030-55240700-a507-11ea-83e8-69807faaee23.png)
 
 # Pov Statements
 1. * A customer needs to have a meaningful conversation with the relationship manager because they are investing a large amount of money and time with their purchase.
@@ -168,14 +168,14 @@ Employees will be trained prior to new packages being available.
 ![Outbound call AD](https://user-images.githubusercontent.com/62222787/83398444-b635d700-a442-11ea-9a37-ad9fae54d7fa.JPG)
 
 ## Customer Calling Agency
-![Customer Calling Agency](https://github.com/edelinic/ISDM-tut-1-/blob/master/Customer%20Calling%20Agency%20Activity%20diagram.png)
+![Customer Calling Agency Activity diagram](https://user-images.githubusercontent.com/62222787/83503350-4852e380-a506-11ea-8d08-a61b959ca6bd.png)
 
 
 # Collaborative Diagrams
 ## Create RM Profile
 ![Untitled Diagram](https://user-images.githubusercontent.com/62222776/83156745-1fb59d00-a146-11ea-9241-3b86db1ced23.png)
 ## Customer Calling CMC
-![Untitled Diagram](https://github.com/edelinic/ISDM-tut-1-/blob/master//Customer_calling_Collaborative.png)
+![Customer_calling_Collaborative](https://user-images.githubusercontent.com/62222787/83503565-9831aa80-a506-11ea-919b-bdb7a0bdd853.png)
 ## Payment Over Phone
 ![make-payment-collaborative](https://user-images.githubusercontent.com/59853181/83406224-8a6e1d80-a451-11ea-9097-2522cb97dada.PNG)
 ## Voice Response Unit
